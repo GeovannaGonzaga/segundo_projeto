@@ -1,0 +1,19 @@
+body{
+    
+    padding: 0;
+}
+.extenção{
+    background-color: rgb(133, 132, 132);
+    height: 10px;
+    width: 100%;
+    font-size: 20px ;
+    text-align: center;
+    padding: 5px 100px 100px 2px; 
+    padding-top 5px;
+    border: 2px solid black;
+
+}
+.texto{
+    margin: auto;
+    text-align: center;
+}
